@@ -1,0 +1,7 @@
+{
+  "name": "VoxBuild AI - Voice SaaS Platform",
+  "description": "A high-performance platform to design, test, and deploy real-time Voice AI agents using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
